@@ -12,7 +12,7 @@
   },
   "main": "index.js",
   "bin": {
-    "enumerate": "bin/enumerate.js"
+    "enumerate": "bin/enumerate"
   },
   "files": [
     "index.js",
