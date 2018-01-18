@@ -1,0 +1,6 @@
+identities:
+  id1:
+    name: 'ID #1'
+    extras: [1, 2]
+  id3:
+    name: 'ID #3'
