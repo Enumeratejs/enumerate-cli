@@ -1,6 +1,6 @@
 {
   "name": "enumerate-cli",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Command line interface for enumerate",
   "contributors": [
     "Jeremy Nauta <jeremypnauta@gmail.com>"
