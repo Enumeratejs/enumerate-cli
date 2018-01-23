@@ -16,7 +16,7 @@ npm install -g enumerate-cli
 
 ## Usage
 
-To understand how to use this project, see the [Enumerate CLI example][enumerate examples cli usage]
+To understand how to use this project, see the [Enumerate CLI example][enumerate examples cli usage].
 
 
 [enumerate]: https://github.com/enumeratejs/enumerate
