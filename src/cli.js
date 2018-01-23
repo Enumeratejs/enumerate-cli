@@ -1,7 +1,7 @@
 import {safeDump, safeLoad} from 'js-yaml';
 import {readFileSync} from 'fs';
 
-const enumerate = require('enumerate');
+const enumerate = require('enumeratejs');
 
 const {log} = console;
 
